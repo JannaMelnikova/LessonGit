@@ -11,6 +11,6 @@ public class Service {
     }
 
     public void  printTime(){
-        System.out.println(LocalDateTime.now().toString());
+        System.out.println(LocalDateTime.now());
     }
 }

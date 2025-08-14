@@ -4,5 +4,6 @@ public class Service {
 
     public void printHello(){
         System.out.println("Hi");
+        System.out.println("Hi User");
     }
 }
